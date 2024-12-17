@@ -1,3 +1,3 @@
 ## my site
 
-123456
+Today is my birthday!
